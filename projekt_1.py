@@ -2,7 +2,7 @@
 projekt_1.py: první projekt do Engeto Online Python Akademie
 author: Iveta Minaříková
 email: pilatovaiveta@gmail.com
-discord: Iveta M.
+discord: ivet_13 (Iveta M.)
 """
 from texty import TEXTS
 registrovani_uzivatele = {
